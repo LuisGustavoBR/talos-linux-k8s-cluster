@@ -223,26 +223,3 @@ kubectl get pods -A
 If everything worked correctly, your Talos Kubernetes cluster is ready 🚀
 
 ---
-
-## 15. What You Achieved
-
-With this guide you:
-
-- Installed Talos Linux on VirtualBox
-- Created a Kubernetes control plane
-- Generated kubeconfig
-- Enabled scheduling on a single-node cluster
-- Successfully deployed a working Kubernetes cluster
-
----
-
-## 16. Next Steps (Recommended for GitHub README)
-
-You can extend this lab with:
-
-- Installing NGINX Ingress
-- Installing metrics-server
-- Deploying a test application
-- Creating a second worker node
-
----
