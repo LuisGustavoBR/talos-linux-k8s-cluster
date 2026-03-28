@@ -246,6 +246,3 @@ You can extend this lab with:
 - Creating a second worker node
 
 ---
-
-If you want, I can now convert this into a **very professional GitHub README with architecture diagram + badges + sections for recruiters**.
-
