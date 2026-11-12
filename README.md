@@ -220,6 +220,6 @@ kubectl get nodes
 kubectl get pods -A
 ```
 
-If everything worked correctly, your Talos Kubernetes cluster is ready 🚀
+If everything worked correctly, your Talos Kubernetes cluster is ready!
 
 ---
